@@ -1,0 +1,9 @@
+a.btn-principal{
+    color: white !important;
+    background: #00D3DA !important;
+    text-transform: uppercase;
+    padding: 1.5rem 3rem;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: .1rem;
+}
