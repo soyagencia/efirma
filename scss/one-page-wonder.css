@@ -1,11 +1,6 @@
-/*!
- * Start Bootstrap - One Page Wonder v5.0.7 (https://startbootstrap.com/template-overviews/one-page-wonder)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/blob/master/LICENSE)
- */
 @import url(//db.onlinewebfonts.com/c/575fc498ad34ad0f411e618dad9ed36a?family=Graphik+LC+Web+Regular);
 body {
-  font-family: "Graphik LC Web Regular";
+  font-family: 'Lato';
 }
 
 h1,
@@ -14,7 +9,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Graphik LC Web Regular";
+  font-family: 'Catamaran';
   font-weight: 700 !important;
 }
 
@@ -146,7 +141,8 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-primary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 103, 218, 0.5);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 103, 218, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(0, 103, 218, 0.5);
 }
 
 .btn-secondary {
@@ -160,5 +156,7 @@ header.masthead .bg-circle-4 {
 }
 
 .btn-secondary:focus {
-  box-shadow: 0 0 0 0.2rem rgba(0, 116, 218, 0.5);
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 116, 218, 0.5);
+          box-shadow: 0 0 0 0.2rem rgba(0, 116, 218, 0.5);
 }
+/*# sourceMappingURL=one-page-wonder.css.map */

@@ -1,11 +1,11 @@
 {
-    "title": "One Page Wonder",
-    "name": "startbootstrap-one-page-wonder",
-    "version": "5.0.7",
+    "title": "EFIRMA Landing",
+    "name": "efirma landing",
+    "version": "1.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page HTML template built with Bootstrap",
+    "description": "A one page landing page for Efirma",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/one-page-wonder",
+    "homepage": "www.efirma.com",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://efirma.com",
+        "email": "brian@efirma.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "SOY AGENCIA",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "SOY (http://soyagencia.com/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder.git"
+        "url": "https://github.com/soyagencia/"
     },
     "dependencies": {
         "bootstrap": "4.3.1",
